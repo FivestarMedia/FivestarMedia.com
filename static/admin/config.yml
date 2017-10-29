@@ -5,10 +5,11 @@ backend:
 
 media_folder: "static/images/uploads" # Folder where user uploaded files should go
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+publish_mode: editorial_workflow
 
 collections: # A list of collections the CMS should be able to edit
   - name: "blog" # Used in routes, e.g., /admin/collections/:slug/edit
-    label: "My Blog" # Used in the UI, e.g., "New Post"
+    label: "Blog" # Used in the UI, e.g., "New Post"
     folder: "/content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
