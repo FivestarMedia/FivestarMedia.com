@@ -55,6 +55,11 @@ body {
     background-size: cover;
 }
 
+.bg.blog {
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url($baseurl + "/images/blog-background.png") no-repeat center;
+    background-size: cover;
+}
+
 .bg.pay-per-click-marketing {
     background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url($baseurl + "/images/pay-per-click-marketing-background.jpg") no-repeat center;
     background-size: cover;
@@ -1001,6 +1006,10 @@ button:hover {
         background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url($baseurl + "/images/website-design-background.jpg") no-repeat center;
         background-size: cover;
     }
+    .bg.blog {
+        background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url($baseurl + "/images/blog-background.png") no-repeat center;
+        background-size: cover;
+    }    
     .bg.seo {
         background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url($baseurl + "/images/search-engine-optimization-background.jpg") no-repeat center;
         background-size: cover;

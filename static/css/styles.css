@@ -40,6 +40,10 @@ body {
   background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/search-engine-optimization-background.jpg") no-repeat center;
   background-size: cover; }
 
+.bg.blog {
+  background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/blog-background.png") no-repeat center;
+  background-size: cover; }
+
 .bg.pay-per-click-marketing {
   background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/pay-per-click-marketing-background.jpg") no-repeat center;
   background-size: cover; }
@@ -822,6 +826,10 @@ button:hover {
 
   .bg.website-design {
     background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("/images/website-design-background.jpg") no-repeat center;
+    background-size: cover; }
+
+  .bg.blog {
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("/images/blog-background.png") no-repeat center;
     background-size: cover; }
 
   .bg.seo {
