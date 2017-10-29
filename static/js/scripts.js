@@ -25,7 +25,7 @@ function main() {
 			myFunction(this);
 			$(this).attr('data-click-state', 1);
 			$("body > :not(.oldNavWrapper, .menu)").animate({
-				opacity: '0.35'
+				opacity: '0.15'
 			}, 400);
 			setTimeout(function () {
 				$('.oldNavWrapper').animate({
@@ -35,7 +35,7 @@ function main() {
 					right: "0px"
 				}, 400);
 				$('body').css("overflow", "hidden");
-			}, 400);
+			}, 600);
 		}
 	});
 
@@ -76,7 +76,7 @@ function main() {
 			}, 400);
 			$('.newNavWrapper img').attr("src", "/images/fivestarlogobefore.svg");
 			$("body > :not(.newNavWrapper, .menu)").animate({
-				opacity: '0.35'
+				opacity: '0.15'
 			}, 400);
 
 			setTimeout(function () {
@@ -87,7 +87,7 @@ function main() {
 				$('.menu').animate({
 					right: "0px"
 				}, 400);
-			}, 400);
+			}, 600);
 		}
 	});
 };
