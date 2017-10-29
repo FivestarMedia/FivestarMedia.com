@@ -1,0 +1,89 @@
+<div class="body-container">
+	<div class="banner">
+		<h2 class="toUpper bold">Call us to book a free 30 minute consultation at 
+			<span style="white-space: nowrap;">{{ partial "telnumberlink.html" . }}</span></h2>
+	</div>
+	<div class="row eqHeight footerRow">
+		<div class="col-xs-12 col-md-3 footerCols">
+			<p class="bold">About Us</p>
+			<p>Fivestar Media is a Canadian startup digital consulting agency with offices in Toronto and Brampton.</p>
+			<p>Our objective is to use the best and latest web technologies to position our clients for long-term success on the internet.</p>
+			<p>We believe that doing an outstanding job for our clients will bring them success and our own success will follow.</p>
+		</div>
+		<div class="col-xs-12 col-md-3 footerCols">
+			<p class="bold">Services</p>
+			<p>
+				<a href="/website-design/">Website Design</a>
+			</p>
+			<p>
+				<a href="/search-engine-optimization-seo/">Search Engine Optimization</a>
+			</p>
+			<p>
+				<a href="/pay-per-click-ppc-marketing/">Pay-per-click Marketing</a>
+			</p>
+			{{ partial "socialmedia.html" . }}
+		</div>
+		<div class="col-xs-12 col-md-3 footerCols">
+				<p class="bold">Toronto Office</p>
+				<p>
+					<span>4711 Yonge Street, 10th Floor</span>
+					<span>Toronto, ON</span>
+					<span>M2N 6K8, Canada</span>
+					<span>{{ partial "telnumbertextlong.html" . }}</span>
+				</p>
+				<p class="bold spacer">Brampton Office</p>
+				<p>
+					<span>2 County Court Blvd., Suite 400</span>
+					<span>Brampton, ON</span>
+					<span>L6W 3W8, Canada</span>
+					<span>{{ partial "telnumbertextlong.html" . }}</span>
+				</p>
+		</div>
+		<div class="col-xs-12 col-md-3 footerCols">
+			<p class="bold">Our Expertise</p>
+			<ul>
+				<li>
+					<img src="/images/wordpress-logo.png">
+				</li>
+				<li>
+					<img src="/images/jekyll-logo.png">
+				</li>
+				<li>
+					<img src="/images/hugo-logo.png">
+				</li>
+			</ul>
+			<ul>
+				<li>
+					<img src="/images/forestry-logo.png">
+				</li>
+
+				<li>
+					<img src="/images/css3-logo.png">
+				</li>
+				<li>
+					<img src="/images/sass-logo.png">
+				</li>
+			</ul>
+			<ul>
+				<li>
+					<img src="/images/jquery-logo.png">
+				</li>
+				<li>
+					<img src="/images/javascript-logo.png">
+				</li>
+				<li>
+					<img src="/images/html5-logo.png">
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="row eqHeight copyrightRow">
+		<div class="col-xs-12 copyright">
+			<p>© <script>var today = new Date();
+				var year = today.getFullYear();
+				document.write(year);</script> Fivestar Media Inc.</p>
+		</div>
+	</div>
+</div>
+<script src="/js/scripts.js"></script>
+{{ partial "intercom.html" . }}

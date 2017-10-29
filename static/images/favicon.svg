@@ -1,0 +1,14 @@
+<svg width="196" height="196" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1{fill:#1b75bc;}</style>
+ </defs>
+ <title>fivestarlogo</title>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="198" height="198" id="canvas_background" fill="#ffffff"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m23.896408,81.381334l56.61051,0l17.493083,-53.779748l17.493093,53.779748l56.6105,0l-45.798781,33.237331l17.493988,53.779748l-45.798801,-33.238237l-45.798791,33.238237l17.493993,-53.779748l-45.798796,-33.237331z" stroke-opacity="null" stroke-width="null" stroke="null" fill="#4286f4"/>
+ </g>
+</svg>
