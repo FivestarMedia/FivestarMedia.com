@@ -3,7 +3,7 @@ type = "webpage"
 page = "single"
 title = "Contact - Fivestar Media"
 +++
-<div class="jumbotron bg contact-us"></div>
+<div class="bg contact-us"></div>
 <div class="banner">
     <h2>Thank you for your interest in Fivestar Media. You may use the Contact Form below, call us at
         <script type="text/javascript">

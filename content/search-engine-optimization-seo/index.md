@@ -3,7 +3,7 @@ type = "webpage"
 layout = "single-nomap"
 title = "Toronto SEO Search Engine Optimization - Fivestar Media"
 +++
-<div class="jumbotron bg seo">
+<div class="bg seo">
 </div>
 <div class="body-container">
 	<div class="row">

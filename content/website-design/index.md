@@ -3,7 +3,7 @@ type = "webpage"
 layout = "single-nomap"
 title = "Toronto Web Design Development - Fivestar Media"
 +++
-<div class="jumbotron bg website-design">
+<div class="bg website-design">
 </div>
 <div class="body-container">
 	<div class="row">
