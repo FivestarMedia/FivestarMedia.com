@@ -1,7 +1,7 @@
 +++
 type = "webpage"
 page = "single"
-title = "Toronto Web Design SEO PPC - Fivestar Media"
+title = "Contact - Fivestar Media"
 +++
 <div class="jumbotron bg contact-us"></div>
 <div class="banner">

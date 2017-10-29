@@ -1,7 +1,7 @@
 +++
 type = "webpage"
 layout = "single-nomap"
-title = "Toronto Web Design SEO PPC - Fivestar Media"
+title = "Toronto Pay Per Click PPC - Fivestar Media"
 +++
 <div class="jumbotron bg pay-per-click-marketing">
 </div>

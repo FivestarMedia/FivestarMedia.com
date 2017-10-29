@@ -1,7 +1,7 @@
 +++
 type = "webpage"
 layout = "single-nomap-nobanner"
-title = "Toronto Web Design SEO PPC - Fivestar Media"
+title = "Thank You - Fivestar Media"
 +++
 <div class="jumbotron bg thank-you"></div>
 <div class="banner contact">
