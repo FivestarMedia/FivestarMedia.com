@@ -23,9 +23,7 @@ title = "Toronto Web Design SEO PPC - Fivestar Media"
 		<a href="/search-engine-optimization-seo/">
 			<span class="underline bold">Search Engine Optimization</span>
 		</a> and strategic advertisement using
-		<a href="/pay-per-click-ppc-marketing/">
-			<span class="underline bold">Pay-per-click Marketing</span>
-		</a>.</h2>
+		<a href="/pay-per-click-ppc-marketing/"><span class="underline bold">Pay-per-click Marketing</span></a>.</h2>
 </div>
 <div class="body-container">
 	<div class="row">
