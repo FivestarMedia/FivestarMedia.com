@@ -288,6 +288,24 @@ ul.blog h2 {
     text-align: center;
 }
 
+.serviceHeadingBlog {
+    padding: 4.5vw 1.825vw;
+    text-align: left;
+    margin:0;
+}
+
+.serviceHeadingBlog h1 {
+    margin: 0 0 1vw 0;    
+}
+
+.serviceHeadingBlog h2 {
+    margin: 0 0 1vw 0;
+}
+
+.serviceHeadingBlog h3 {
+    padding-bottom: 4vw;
+}
+
 .serviceContainer {
     display: flex;
 }
@@ -1163,6 +1181,9 @@ button:hover {
         padding: 3.075vw 1.825vw;
     }
     .serviceHeading {
+        padding: 3.075vw 1.825vw;
+    }
+    .serviceHeadingBlog {
         padding: 3.075vw 1.825vw;
     }
     .serviceIcon {

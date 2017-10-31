@@ -17,4 +17,5 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Type", name: "type", default: "blogpost", widget: "hidden"}
       - {label: "Layout", name: "layout", default: "single", widget: "hidden"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Sub-title", name: "subtitle", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}

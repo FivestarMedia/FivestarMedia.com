@@ -7,13 +7,21 @@
 {{ partial "menu.html" . }}
 <div class="bg blog"></div>
 <div class="body-container">
-	<div class="row">
-		<div class="col-xs-12 serviceHeading">
+	<div class="row eqHeight">
+		<div class="col-md-2" id="leftSidebar">
+            <!-- <h2>Hello World!</h2> -->
+        </div>
+        <div class="col-xs-12 col-md-8 serviceHeadingBlog">
 			<h1>{{ .Page.Title }}</h1>
-            {{ .Content }}
+            <h2>{{ .Params.Subtitle }}</h2>
+            <h3>{{ .Content }}</h3>
+            {{ partial "disqus.html" . }}
+        </div>
+		<div class="col-md-2" id="rightSidebar">
+            <!-- <h2>Hello World!</h2> -->
         </div>
     </div>
 </div>
-{{ partial "footer-nomap-nobanner.html" . }}
+{{ partial "footer-blog.html" . }}
 </body>
 </html>
