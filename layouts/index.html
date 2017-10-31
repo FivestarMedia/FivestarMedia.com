@@ -2,21 +2,12 @@
 <html lang="en">
 <head>
 {{ partial "head.html" . }}
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
 {{ partial "menu.html" . }}
 {{ .Content }}
 {{ partial "footer.html" . }}
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
+{{ partial "netlify-cms.html" . }}
 </body>
 </html>
