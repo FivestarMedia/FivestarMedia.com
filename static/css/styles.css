@@ -28,7 +28,7 @@ body {
   height: 60vh; }
 
 .bg.home {
-  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.45)), url("/images/mobile-home-background.jpg") no-repeat center;
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.6)), url("/images/mobile-home-background.jpg") no-repeat center;
   min-height: 600px;
   background-size: cover; }
 
