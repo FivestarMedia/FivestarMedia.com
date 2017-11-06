@@ -20,10 +20,10 @@ title = "Toronto Web Design SEO PPC - Fivestar Media"
 			<span class="underline bold">Website Design</span>
 		</a> and make awesome, functional, pixel-perfect websites. We then get them to generate maximum leads by ranking them high in
 		search engines through organic
-		<a href="/search-engine-optimization-seo/">
+		<a href="/seo/">
 			<span class="underline bold">Search Engine Optimization</span>
 		</a> and strategic advertisement using
-		<a href="/pay-per-click-ppc-marketing/"><span class="underline bold">Pay-per-click Marketing</span></a>.</h2>
+		<a href="/ppc/"><span class="underline bold">Pay-per-click Marketing</span></a>.</h2>
 </div>
 <div class="body-container">
 	<div class="row">
@@ -60,21 +60,21 @@ title = "Toronto Web Design SEO PPC - Fivestar Media"
 		<div class="col-xs-12 col-md-4 serviceCols">
 			<div class="serviceContainer">
 				<div class="serviceIcon">
-					<a href="/search-engine-optimization-seo/">
+					<a href="/seo/">
 						<img class="circular--square" src="/images/search-engine-optimization.jpg">
 					</a>
 				</div>
 				<div class="serviceText serviceSpace">
 					<p class="bold">
-						<a href="/search-engine-optimization-seo/">Search Engine Optimization</a>
+						<a href="/seo/">Search Engine Optimization</a>
 					</p>
 					<p>
-						<a href="/website-design/">Get search engines to find new customers for you. Organic SEO substantially increases traffic to your website by getting
+						<a href="/seo/">Get search engines to find new customers for you. Organic SEO substantially increases traffic to your website by getting
 							it to rank high in Google and other search engines. When done right, it acts much like a digital magnet for your company.
 						</a>
 					</p>
 					<p class="serviceLink bold">
-						<a href="/search-engine-optimization-seo/">Learn More</a>
+						<a href="/seo/">Learn More</a>
 					</p>
 				</div>
 			</div>
@@ -82,21 +82,21 @@ title = "Toronto Web Design SEO PPC - Fivestar Media"
 		<div class="col-xs-12 col-md-4 serviceCols">
 			<div class="serviceContainer">
 				<div class="serviceIcon">
-					<a href="/pay-per-click-ppc-marketing/">
+					<a href="/ppc/">
 						<img class="circular--square" src="/images/ppc-pay-per-click-marketing.jpg">
 					</a>
 				</div>
 				<div class="serviceText serviceSpace">
 					<p class="bold">
-						<a href="/pay-per-click-ppc-marketing/">Pay-per-click Marketing</a>
+						<a href="/ppc/">Pay-per-click Marketing</a>
 					</p>
 					<p>
-						<a href="/website-design/">Place strategic ads of your company on search engines and elsewhere instantly on the internet. PPC lets you ultimate
+						<a href="/ppc/">Place strategic ads of your company on search engines and elsewhere instantly on the internet. PPC lets you ultimate
 							control over who gets to see them including the time, location and many other factors. You pay only when someone actually
 							clicks them.</a>
 					</p>
 					<p class="serviceLink bold">
-						<a href="/pay-per-click-ppc-marketing/">Learn More</a>
+						<a href="/ppc/">Learn More</a>
 					</p>
 				</div>
 			</div>

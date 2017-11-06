@@ -214,7 +214,7 @@ title = "Toronto Web Design Development - Fivestar Media"
 			<ul>
 				<h2 class="bold">Template+</h2>
 				<h2 class="bold">$1,500</h2>
-				<li>5 Pages Included</li>
+				<li>2 Pages Included</li>
 				<li>WordPress Template</li>
 				<li>Customization of Theme</li>
 				<li>Mobile Responsive</li>
@@ -235,7 +235,7 @@ title = "Toronto Web Design Development - Fivestar Media"
 			<ul>
 				<h2 class="bold">Custom</h2>
 				<h2 class="bold">$2,500</h2>
-				<li>5 Pages Included</li>
+				<li>2 Pages Included</li>
 				<li>2 Page Prototype</li>
 				<li>Custom CMS or Static Design</li>
 				<li>Hand-coded from Scratch</li>
@@ -259,8 +259,8 @@ title = "Toronto Web Design Development - Fivestar Media"
 			<ul>
 				<h2 class="bold">Enterprise</h2>
 				<h2 class="bold">$5,000+</h2>
-				<li>5 Pages Included</li>
-				<li>5 Page Prototype</li>
+				<li>2 Pages Included</li>
+				<li>Full Prototype</li>
 				<li>UX Analysis</li>
 				<li>A/B Testing</li>
 				<li>Custom CMS or Static Design</li>
