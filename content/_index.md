@@ -3,7 +3,7 @@ title = "Toronto Web Development SEO PPC - Fivestar Media"
 +++
 <div class="bg home">
 	<h1 class="splash">
-		<span>Exceptional Website Development,</span>
+		<span>Professional Website Development,</span>
 		<span>Search Engine Optimization</span>
 		<span>and Pay-per-click Marketing</span>
 		<span>to Maximize Your Leads.</span>
