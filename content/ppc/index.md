@@ -209,7 +209,7 @@ title = "Toronto Pay Per Click PPC - Fivestar Media"
 		<div class="col-xs-12 col-md-3 features">
 			<ul>
 				<h2 class="bold">Basic</h2>
-				<h2 class="bold">$200/month</h2>
+				<h2 class="bold"><s>$250</s>$200/month</h2>
 				<li>Up to $2,500 Monthly PPC Spend</li>
 				<li>Up to 400 Keywords in Campaign</li>
 				<li>In-depth Keyword Research</li>
@@ -217,6 +217,7 @@ title = "Toronto Pay Per Click PPC - Fivestar Media"
 				<li>Google PPC Network</li>
 				<li>Google Analytics Integration</li>
 				<li>Monthly Review</li>
+				<li>*$100 Google AdWords Credit</li>
 			</ul>
 		</div>
 		<div class="col-xs-12 col-md-3 features">
@@ -233,6 +234,7 @@ title = "Toronto Pay Per Click PPC - Fivestar Media"
 				<li>Strategic Bid Management</li>
 				<li>Google Analytics Integration</li>
 				<li>Monthly Review</li>
+				<li>*$100 Google AdWords Credit</li>
 			</ul>
 		</div>
 		<div class="col-xs-12 col-md-3 features">
@@ -249,6 +251,7 @@ title = "Toronto Pay Per Click PPC - Fivestar Media"
 				<li>Strategic Bid Management</li>
 				<li>Google Analytics Integration</li>
 				<li>Monthly Review</li>
+				<li>*$100 Google AdWords Credit</li>
 			</ul>
 		</div>
 		<div class="col-xs-12 col-md-3 features">
@@ -266,6 +269,7 @@ title = "Toronto Pay Per Click PPC - Fivestar Media"
 				<li>Strategic Bid Management</li>
 				<li>Google Analytics Integration</li>
 				<li>Monthly Review</li>
+				<li>*$100 Google AdWords Credit</li>
 			</ul>
 		</div>
 	</div>

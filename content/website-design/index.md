@@ -195,7 +195,7 @@ title = "Toronto Web Design Development - Fivestar Media"
 		<div class="col-xs-12 col-md-3 features">
 			<ul>
 				<h2 class="bold">Template</h2>
-				<h2 class="bold">$700</h2>
+				<h2 class="bold"><s>$1,000</s>$700</h2>
 				<li>2 Pages Included</li>
 				<li>WordPress Template</li>
 				<li>Customization of Theme</li>
@@ -214,7 +214,7 @@ title = "Toronto Web Design Development - Fivestar Media"
 		<div class="col-xs-12 col-md-3 features">
 			<ul>
 				<h2 class="bold">Template+</h2>
-				<h2 class="bold">$1,500</h2>
+				<h2 class="bold"><s>$1,800</s>$1,500</h2>
 				<li>2 Pages Included</li>
 				<li>WordPress Template</li>
 				<li>Customization of Theme</li>
@@ -235,7 +235,7 @@ title = "Toronto Web Design Development - Fivestar Media"
 		<div class="col-xs-12 col-md-3 features">
 			<ul>
 				<h2 class="bold">Custom</h2>
-				<h2 class="bold">$2,500</h2>
+				<h2 class="bold"><s>$2,800</s>$2,500</h2>
 				<li>2 Pages Included</li>
 				<li>2 Page Prototype</li>
 				<li>Custom CMS or Static Design</li>
