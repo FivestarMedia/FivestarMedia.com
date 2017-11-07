@@ -115,8 +115,8 @@ title = "Toronto Web Design Development - Fivestar Media"
 					<span class="bold">This is the recommended option for large industrial and professional firms such as accounting, consulting, law, mining,
 						metal and engineering firms</span>. These websites are designed to compel your users to explore your business deeper
 					during their research phase.</h3>
-				<h3>We research your largest competitors to design a strategy that will set your firm apart from the crowd. These websites
-					typically require four weeks to complete from start to finish.</h3>
+				<h3>A partial prototype website is created before full production to ensure your requirements are met as specified.</h3>
+ 				<h3>These websites typically require four weeks to complete from start to finish.</h3>
 			</div>
 		</div>
 	</div>
@@ -130,10 +130,11 @@ title = "Toronto Web Design Development - Fivestar Media"
 			<div class="serviceDetail">
 				<h2>Enterprise</h2>
 				<h3>Our enterprise-level websites are designed for businesses that require advanced, custom functionality either for themselves
-					or from their clients. These include systems that require logging in, scheduling, collaboration, back-up, redundancy,
+					or from their clients. These include systems that require client log in, scheduling, collaboration, back-up, redundancy,
 					multilingual and other advanced features.</h3>
-				<h3 class="bold">We take an engineering approach for our largest projects. A prototype website is developed beforehand and tested with
-					potential clients to ensure smooth functionality across the entire team.</h3>
+				<h3 class="bold">A full, working prototyope website is developed beforehand and tested with
+					potential clients to ensure smooth functionality across the entire team upon launch.</h3>
+				<h3>We research your largest competitors to learn of their potential weaknesses and design a strategy that will set your firm apart from the crowd.</h3>
 				<h3>The amount of time required to develop these websites varies from four to eight weeks or more.</h3>
 			</div>
 		</div>
@@ -245,7 +246,7 @@ title = "Toronto Web Design Development - Fivestar Media"
 				<li>Copywriting</li>
 				<li>Social Media Integration</li>
 				<li>Google Maps</li>
-				<li>6 Custom Icons</li>
+				<li>5 Custom Icons</li>
 				<li>Photo Sourcing</li>
 				<li>3 Rounds of Revisions</li>
 				<li>Contact Form</li>
