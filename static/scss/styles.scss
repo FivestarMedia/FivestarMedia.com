@@ -45,8 +45,8 @@ body {
     background-size: cover;
 }
 
-.bg.website-design {
-    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url($baseurl + "/images/website-design-background.jpg") no-repeat center;
+.bg.website-development {
+    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url($baseurl + "/images/website-development-background.jpg") no-repeat center;
     background-size: cover;
 }
 
@@ -151,7 +151,7 @@ h1.splash {
     padding: 30vh 0 0 1.825vw;
     margin: 0;
     line-height: 12.5vw;
-    font-size: 6.5vw;
+    font-size: 6vw;
 }
 
 h2.splash {
@@ -783,7 +783,6 @@ a[href^="https://maps.google.com/maps"] {
 
 .footerCols p {
     font-size: 4vw;
-
 }
 
 #map p span {
@@ -1020,8 +1019,8 @@ button:hover {
         height: 120vh;
         background-size: cover;
     }
-    .bg.website-design {
-        background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url($baseurl + "/images/website-design-background.jpg") no-repeat center;
+    .bg.website-development {
+        background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url($baseurl + "/images/website-development-background.jpg") no-repeat center;
         background-size: cover;
     }
     .bg.blog {
