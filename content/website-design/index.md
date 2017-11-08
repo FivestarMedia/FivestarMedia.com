@@ -1,14 +1,14 @@
 +++
 type = "webpage"
 layout = "single-nomap"
-title = "Toronto Website Development Design - Fivestar Media"
+title = "Website Design Toronto Development - Fivestar Media"
 +++
-<div class="bg website-development">
+<div class="bg website-design">
 </div>
 <div class="body-container">
 	<div class="row">
 		<div class="col-xs-12 serviceHeading">
-			<h1>Website Development</h1>
+			<h1>Website Design</h1>
 			<h3>At Fivestar Media, we know the best websites should engage the user with compelling content balanced with relevant visuals.
 				The website should work seamlessly across all devices, be easy to use, have a fast load time and be designed from the
 				ground-up to rank well with search engines. All of our websites have the same, exceptional standard of quality to deliver
@@ -61,7 +61,7 @@ title = "Toronto Website Development Design - Fivestar Media"
 	</div>
 	<div class="row">
 		<div class="col-xs-12 serviceHeading">
-			<h1>Website Development Packages</h1>
+			<h1>Website Design Packages</h1>
 			<h3>Whether you're a local startup or an established international leader, Fivestar's packages are designed to give you the
 				edge over your competitors. We take our time to understand you and your goals to develop the best strategy for your online
 				success. Your brand new, professional website will be up and running in as little as three weeks.</h3>
@@ -141,7 +141,7 @@ title = "Toronto Website Development Design - Fivestar Media"
 	</div>
 	<div class="row Why">
 		<div class="col-xs-12 serviceHeading">
-			<h1>Website Development Pricing</h1>
+			<h1>Website Design Pricing</h1>
 			<h3>Call us today at
 				<script type="text/javascript">
 					//<![CDATA[
@@ -166,7 +166,7 @@ title = "Toronto Website Development Design - Fivestar Media"
 					while (x = eval(x));
 					//-->
 					//]]>
-				</script> to learn more about our Website Development packages. You can also use our
+				</script> to learn more about our Website Design packages. You can also use our
 				<a href="/contact/">
 					<span class="bold">Contact Form</span>
 				</a> or send us an email at
@@ -208,7 +208,7 @@ title = "Toronto Website Development Design - Fivestar Media"
 				<li>2 Rounds of Revisions</li>
 				<li>Contact Form</li>
 				<li>XML Sitemap</li>
-				<li>*Additional Pages $100 each</li>
+				<li>*Additional Pages <s>$100</s>$70 each</li>
 			</ul>
 		</div>
 		<div class="col-xs-12 col-md-3 features">
@@ -240,7 +240,6 @@ title = "Toronto Website Development Design - Fivestar Media"
 				<li>2 Page Prototype</li>
 				<li>Custom CMS or Static Design</li>
 				<li>Hand-coded from Scratch</li>
-				<li>Static Design</li>
 				<li>Mobile Responsive</li>
 				<li>Google Analytics</li>
 				<li>Copywriting</li>
@@ -266,7 +265,6 @@ title = "Toronto Website Development Design - Fivestar Media"
 				<li>A/B Testing</li>
 				<li>Custom CMS or Static Design</li>
 				<li>Hand-coded from Scratch</li>
-				<li>Static Design</li>
 				<li>Competitor Research</li>
 				<li>Mobile Responsive</li>
 				<li>Google Analytics</li>

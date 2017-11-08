@@ -1,9 +1,9 @@
 +++
-title = "Toronto Web Development SEO PPC - Fivestar Media"
+title = "Website Design Toronto SEO PPC - Fivestar Media"
 +++
 <div class="bg home">
 	<h1 class="splash">
-		<span>Professional Website Development,</span>
+		<span>Professional Website Design,</span>
 		<span>Search Engine Optimization</span>
 		<span>and Pay-per-click Marketing</span>
 		<span>to Maximize Your Leads.</span>
@@ -16,8 +16,8 @@ title = "Toronto Web Development SEO PPC - Fivestar Media"
 </div>
 <div class="banner">
 	<h2>We specialize in
-		<a href="/website-development/">
-			<span class="underline bold">Website Development</span>
+		<a href="/website-design/">
+			<span class="underline bold">Website Design</span>
 		</a> and make awesome, functional, pixel-perfect websites. We then get them to generate maximum leads by ranking them high in
 		search engines through organic
 		<a href="/seo/">
@@ -38,21 +38,21 @@ title = "Toronto Web Development SEO PPC - Fivestar Media"
 		<div class="col-xs-12 col-md-4 serviceCols">
 			<div class="serviceContainer">
 				<div class="serviceIcon">
-					<a href="/website-development/">
-						<img class="circular--square" src="/images/website-development.jpg">
+					<a href="/website-design/">
+						<img class="circular--square" src="/images/website-design.jpg">
 					</a>
 				</div>
 				<div class="serviceText serviceSpace">
 					<p class="bold">
-						<a href="/website-development/">Website Development</a>
+						<a href="/website-design/">Website Design</a>
 					</p>
 					<p>
-						<a href="/website-development/">You only get one chance to make a first impression, so make it your best. Great online branding starts with having
+						<a href="/website-design/">You only get one chance to make a first impression, so make it your best. Great online branding starts with having
 							a solid website that is fast, easy to use and delivers a unique experience for your potential clients and work well
 							with search engines.</a>
 					</p>
 					<p class="serviceLink bold">
-						<a href="/website-development/">Learn More</a>
+						<a href="/website-design/">Learn More</a>
 					</p>
 				</div>
 			</div>
