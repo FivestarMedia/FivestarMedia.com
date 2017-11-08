@@ -1,6 +1,6 @@
 +++
 type = "webpage"
-layout = "single-nomap-nobanner"
+layout = "single-thank-you"
 title = "Thank You - Fivestar Media"
 +++
 <div class="bg thank-you"></div>
