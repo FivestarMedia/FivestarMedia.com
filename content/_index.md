@@ -3,7 +3,7 @@ title = "Website Design Toronto SEO PPC - Fivestar Media"
 +++
 <div class="bg home">
 	<h1 class="splash">
-		<span>Professional Website Design,</span>
+		<span>Results-oriented Website Design,</span>
 		<span>Search Engine Optimization</span>
 		<span>and Pay-per-click Marketing</span>
 		<span>to Maximize Your Leads.</span>

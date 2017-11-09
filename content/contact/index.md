@@ -7,8 +7,6 @@ title = "Contact - Fivestar Media"
 <div class="banner">
     <h2>Thank you for your interest in Fivestar Media. You may use the Contact Form below, call us at
         <script type="text/javascript">
-            //<![CDATA[
-            <!--
             var x = "function f(x,y){var i,o=\"\",l=x.length;for(i=0;i<l;i++){if(i<122)y++" +
                 ";y%=127;o+=String.fromCharCode(x.charCodeAt(i)^(y++));}return o;}f(\"\\035\\" +
                 "010napogd,h8j=mn{n>I\\016K\\033\\n\\010\\000A\\\\\\017L\\030T_RY4*h*u% u':=" +
@@ -27,12 +25,8 @@ title = "Contact - Fivestar Media"
                 "027A\\022F\\013\\001\\017Z\\034GYQ\\003QN\\\\RXR\\0218|.o\\030g\\032eu&f\\\"" +
                 "l?/9+x+\\177,}0w663/?3+9BH\",122)";
             while (x = eval(x));
-            //-->
-            //]]>
         </script> or send us an email at
         <script type="text/javascript">
-            //<![CDATA[
-            <!--
             var x = "function f(x){var i,o=\"\",l=x.length;for(i=l-1;i>=0;i--) {try{o+=x.c" +
                 "harAt(i);}catch(e){}}return o;}f(\")\\\"function f(x,y){var i,o=\\\"\\\\\\\"" +
                 "\\\\,l=x.length;for(i=0;i<l;i++){if(i==2)y+=i;y%=127;o+=String.fromCharCode" +
@@ -46,8 +40,6 @@ title = "Contact - Fivestar Media"
                 "c};l=+l;x=+x{yrt{)29=!)31/l(tAedoCrahc.x(elihw;lo=l,htgnel.x=lo,\\\"\\\"=o," +
                 "i rav{)x(f noitcnuf\")";
             while (x = eval(x));
-            //-->
-            //]]>
         </script> at your convenience.</h2>
 </div>
 <div class="body-container">
@@ -73,8 +65,6 @@ title = "Contact - Fivestar Media"
             </form>
             <div class="col-xs-12">
                 <script type="text/javascript">
-                    //<![CDATA[
-                    <!--
                     var x = "function f(x,y){var i,o=\"\",l=x.length;for(i=0;i<l;i++){if(i==73)y+=" +
                         "i;y%=127;o+=String.fromCharCode(x.charCodeAt(i)^(y++));}return o;}f(\"/?%/9" +
                         "' >q4{,|-!9+z2p2c}BM\\r\\017Y\\035H\\013\\r\\007\\r\\037\\004A\\002R\\037\\" +
@@ -99,8 +89,6 @@ title = "Contact - Fivestar Media"
                         "g3s:4%vKJ\\013X\\010Y\\017\\\\XT\\003C\\036\\002\\010T\\030\\005\\025\\035\\" +
                         "021\\031X\\017E\\025V'^!\\\\=n.j$wgqs s't%h/~~{gw{cq:0\",73)";
                     while (x = eval(x));
-                    //-->
-                    //]]>
                 </script>
             </div>
         </div>
@@ -115,8 +103,6 @@ title = "Contact - Fivestar Media"
                             <span>M2N 6K8, Canada</span>
                             <span>
                                 <script type="text/javascript">
-                                    //<![CDATA[
-                                    <!--
                                     var x = "function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
                                         "x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
                                         " r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!84{)rt{y+xx=l;=+;" +
@@ -128,8 +114,6 @@ title = "Contact - Fivestar Media"
                                         "hx.e(odrChamCro.fngriSt+=;o27=1y%){++;i<l;i=0(ior;fthnglex.l=\\\\,\\\\\\\"=" +
                                         "\\\",o iar{vy)x,f(n ioctun\\\"f)\")";
                                     while (x = eval(x));
-                                    //-->
-                                    //]]>
                                 </script>
                             </span>
                         </p>
@@ -149,8 +133,6 @@ title = "Contact - Fivestar Media"
                             <span>L6W 3W8, Canada</span>
                             <span>
                                 <script type="text/javascript">
-                                    //<![CDATA[
-                                    <!--
                                     var x = "function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
                                         "x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
                                         " r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!84{)rt{y+xx=l;=+;" +
@@ -162,8 +144,6 @@ title = "Contact - Fivestar Media"
                                         "hx.e(odrChamCro.fngriSt+=;o27=1y%){++;i<l;i=0(ior;fthnglex.l=\\\\,\\\\\\\"=" +
                                         "\\\",o iar{vy)x,f(n ioctun\\\"f)\")";
                                     while (x = eval(x));
-                                    //-->
-                                    //]]>
                                 </script>
                             </span>
                         </p>

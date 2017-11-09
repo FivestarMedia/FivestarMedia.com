@@ -34,7 +34,7 @@ title = "Website Design Toronto Development - Fivestar Media"
 		<div class="col-xs-12 col-md-3">
 			<img src="/images/copyrighting.png">
 			<h3>Copywriting</h3>
-			<p class="serviceTextBox">Convey your message professionally with articulate information design to encourage clients to take action.</p>
+			<p class="serviceTextBox">We help convey your message professionally with articulate information design to encourage clients to take action.</p>
 		</div>
 	</div>
 	<div class="row eqHeight icons Why secondRow">
@@ -261,13 +261,15 @@ title = "Website Design Toronto Development - Fivestar Media"
 				<h2 class="bold">$5,000+</h2>
 				<li>2 Pages Included</li>
 				<li>Full Prototype</li>
-				<li>UX Analysis</li>
-				<li>A/B Testing</li>
 				<li>Custom CMS or Static Design</li>
 				<li>Hand-coded from Scratch</li>
+				<li>UX Analysis</li>
+				<li>Advanced A/B Split Testing</li>
+				<li>Continuous Deployment</li>
 				<li>Competitor Research</li>
 				<li>Mobile Responsive</li>
 				<li>Google Analytics</li>
+				<li>Google AMP Pages</li>
 				<li>Copywriting</li>
 				<li>Social Media Integration</li>
 				<li>Custom Google Maps</li>
