@@ -57,8 +57,7 @@ title = "Contact - Fivestar Media"
                 <div class="col-xs-12">
                     <input type="hidden" name="_subject" value="Fivestar Media Contact Page" />
                     <input type="hidden" name="_next" value="/thank-you/" />
-                    <textarea name="message" placeholder="Your message" class="textBox" rows="10">
-                    </textarea>
+                    <textarea name="message" placeholder="Your message" class="textBox" rows="10"></textarea>
                     <input type="text" name="_gotcha" style="display:none" />
                     <input type="submit" value="Send">
                 </div>

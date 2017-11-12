@@ -142,7 +142,7 @@ title = "Website Design Toronto SEO PPC - Fivestar Media"
 				<div class="serviceText serviceSpace">
 					<p class="bold">Results</p>
 					<p>Fivestar Media consults with you to design the strategy that will deliver the best results for your company. Our work
-						is guaranteed to increase your brand perception and the amount of visitors you get from your website.</p>
+						is guaranteed to increase your brand perception and the amount of visitors you get to your website.</p>
 				</div>
 			</div>
 		</div>
