@@ -95,6 +95,36 @@ title = "Contact - Fivestar Media"
             <div class="serviceDetail">
                 <div class="row eqHeight spacer addressText">
                     <div class="col-xs-12 col-md-6 eqHeight">
+                        <p class="bold serviceTextBox officeLocationHtAdjust">Brampton Headquarters</p>
+                        <p>
+                            <span>2 County Court Blvd., Suite 400</span>
+                            <span>Brampton, ON</span>
+                            <span>L6W 3W8, Canada</span>
+                            <span>
+                                <script type="text/javascript">
+                                    var x = "function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
+                                        "x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
+                                        " r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!84{)rt{y+xx=l;=+;" +
+                                        "lc}tahce({)}}of(r=i-l;1>i0=i;--{)+ox=c.ahAr(t)i};erutnro s.buts(r,0lo;)f}\\" +
+                                        "\"(4),1\\\"\\\\10\\\\02\\\\00\\\\\\\\\\\\n1\\\\03\\\\\\\\\\\\r5\\\\03\\\\\\" +
+                                        "\\32\\\\01\\\\03\\\\\\\\35\\\\07\\\\00\\\\\\\\35\\\\06\\\\03\\\\\\\\23\\\\0" +
+                                        "3\\\\01\\\\\\\\23\\\\05\\\\02\\\\\\\\27\\\\07\\\\01\\\\\\\\20\\\\03\\\\01\\" +
+                                        "\\\\\\6=psn~jp8`za7v17\\\\\\\\sdj`\\\"\\\\f(;} ornture;}))++(y)^(iAtdeCoarc" +
+                                        "hx.e(odrChamCro.fngriSt+=;o27=1y%){++;i<l;i=0(ior;fthnglex.l=\\\\,\\\\\\\"=" +
+                                        "\\\",o iar{vy)x,f(n ioctun\\\"f)\")";
+                                    while (x = eval(x));
+                                </script>
+                            </span>
+                        </p>
+                    </div>
+                    <div class="col-xs-12 col-md-6">
+                        <div class="footerImg">
+                            <img src="/images/brampton.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="row eqHeight bigSpacer addressText">
+                    <div class="col-xs-12 col-md-6 eqHeight">
                         <p class="bold serviceTextBox officeLocationHtAdjust">Toronto Office</p>
                         <p>
                             <span>4711 Yonge Street, 10th Floor</span>
@@ -120,36 +150,6 @@ title = "Contact - Fivestar Media"
                     <div class="col-xs-12 col-md-6">
                         <div class="footerImg">
                             <img src="/images/sheppard.jpg">
-                        </div>
-                    </div>
-                </div>
-                <div class="row eqHeight bigSpacer addressText">
-                    <div class="col-xs-12 col-md-6 eqHeight">
-                        <p class="bold serviceTextBox officeLocationHtAdjust">Brampton Office</p>
-                        <p>
-                            <span>2 County Court Blvd., Suite 400</span>
-                            <span>Brampton, ON</span>
-                            <span>L6W 3W8, Canada</span>
-                            <span>
-                                <script type="text/javascript">
-                                    var x = "function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
-                                        "x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
-                                        " r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!84{)rt{y+xx=l;=+;" +
-                                        "lc}tahce({)}}of(r=i-l;1>i0=i;--{)+ox=c.ahAr(t)i};erutnro s.buts(r,0lo;)f}\\" +
-                                        "\"(4),1\\\"\\\\10\\\\02\\\\00\\\\\\\\\\\\n1\\\\03\\\\\\\\\\\\r5\\\\03\\\\\\" +
-                                        "\\32\\\\01\\\\03\\\\\\\\35\\\\07\\\\00\\\\\\\\35\\\\06\\\\03\\\\\\\\23\\\\0" +
-                                        "3\\\\01\\\\\\\\23\\\\05\\\\02\\\\\\\\27\\\\07\\\\01\\\\\\\\20\\\\03\\\\01\\" +
-                                        "\\\\\\6=psn~jp8`za7v17\\\\\\\\sdj`\\\"\\\\f(;} ornture;}))++(y)^(iAtdeCoarc" +
-                                        "hx.e(odrChamCro.fngriSt+=;o27=1y%){++;i<l;i=0(ior;fthnglex.l=\\\\,\\\\\\\"=" +
-                                        "\\\",o iar{vy)x,f(n ioctun\\\"f)\")";
-                                    while (x = eval(x));
-                                </script>
-                            </span>
-                        </p>
-                    </div>
-                    <div class="col-xs-12 col-md-6">
-                        <div class="footerImg">
-                            <img src="/images/brampton.jpg">
                         </div>
                     </div>
                 </div>
