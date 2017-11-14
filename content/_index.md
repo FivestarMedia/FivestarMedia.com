@@ -48,7 +48,7 @@ title = "Website Design Toronto SEO PPC - Fivestar Media"
 					</p>
 					<p>
 						<a href="/website-design/">You only get one chance to make a first impression, so make it your best. Great online branding starts with having
-							a solid website that is fast, easy to use and delivers a unique experience for your potential clients and work well
+							a solid website that is fast, easy to use and delivers a unique experience for your potential clients and works well
 							with search engines.</a>
 					</p>
 					<p class="serviceLink bold">
@@ -91,7 +91,7 @@ title = "Website Design Toronto SEO PPC - Fivestar Media"
 						<a href="/ppc/">Pay-per-click Marketing</a>
 					</p>
 					<p>
-						<a href="/ppc/">Place strategic ads of your company on search engines and elsewhere instantly on the internet. PPC lets you ultimate
+						<a href="/ppc/">Place strategic ads of your company on search engines and elsewhere instantly on the internet. PPC gives you ultimate
 							control over who gets to see them including the time, location and many other factors. You pay only when someone actually
 							clicks them.</a>
 					</p>
