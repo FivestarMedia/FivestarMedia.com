@@ -130,7 +130,7 @@ title = "Website Design Toronto Development - Fivestar Media"
 			<div class="serviceDetail">
 				<h2>Enterprise</h2>
 				<h3>Our enterprise-level websites are designed for businesses that require advanced, custom functionality either for themselves
-					or from their clients. These include systems that require client log in, scheduling, collaboration, back-up, redundancy,
+					or from their clients. These include systems that require scheduling, collaboration, back-up, redundancy,
 					multilingual and other advanced features.</h3>
 				<h3 class="bold">A full, working prototyope website is developed beforehand and tested with
 					potential clients to ensure smooth functionality across the entire team upon launch.</h3>
