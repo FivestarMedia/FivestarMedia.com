@@ -499,6 +499,7 @@ a[href^="https://maps.google.com/maps"] {
     justify-content: space-between;
     padding: 0 1.825vw;
     z-index: 1;
+    height: 14vw;
 }
 
 .oldNav ul {
@@ -513,17 +514,13 @@ a[href^="https://maps.google.com/maps"] {
     margin-left: 1.825vw;
     display: inline-block;
     position: relative;
+    color:grey;
 }
 
 .oldNav ul li a {
     color: white;
     text-decoration: none;
     padding: 0.6vw 0;
-}
-
-.oldNav ul li a:hover {
-    text-decoration: none;
-    color: white;
 }
 
 .oldNav ul li ul {
@@ -546,11 +543,7 @@ a[href^="https://maps.google.com/maps"] {
 .oldNav ul li ul li {
     width: 100%;
     margin-left: 0;
-    border-bottom: 0.05vw solid lightgrey;
-}
-
-.oldNav ul li ul li a:hover {
-    color: grey;
+    border-bottom: 0.5px solid lightgrey;
 }
 
 .oldNav ul li ul li a {
@@ -560,7 +553,7 @@ a[href^="https://maps.google.com/maps"] {
 }
 
 .oldNav ul li ul li:last-child {
-    border-bottom: none;
+    border-bottom: 0.5px solid lightgrey;
 }
 
 .newNavWrapper {
@@ -602,7 +595,6 @@ a[href^="https://maps.google.com/maps"] {
 .newNav ul li a {
     color: grey;
     text-decoration: none;
-    text-decoration: none;
     padding: 0.6vw 0;
 }
 
@@ -626,7 +618,7 @@ a[href^="https://maps.google.com/maps"] {
 .newNav ul li ul li {
     width: 100%;
     margin-left: 0;
-    border-bottom: 0.05vw solid lightgrey;
+    border-bottom: 0.5px solid lightgrey;
 }
 
 .newNav ul li ul li a {
@@ -646,7 +638,7 @@ a[href^="https://maps.google.com/maps"] {
 
 .hvr-underline-from-left:before {
     background: $bluecolor;
-    height: 4px;
+    height: 0.5vw;
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
     -webkit-transition-timing-function: ease;
@@ -655,7 +647,7 @@ a[href^="https://maps.google.com/maps"] {
 
 .hvr-underline-from-none:before {
     background: inherit;
-    height: 4px;
+    height: 0.5vw;
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
     -webkit-transition-timing-function: ease;

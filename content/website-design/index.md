@@ -144,8 +144,6 @@ title = "Website Design Toronto Development - Fivestar Media"
 			<h1>Website Design Pricing</h1>
 			<h3>Call us today at
 				<script type="text/javascript">
-					//<![CDATA[
-					<!--
 					var x = "function f(x,y){var i,o=\"\",l=x.length;for(i=0;i<l;i++){if(i<122)y++" +
 						";y%=127;o+=String.fromCharCode(x.charCodeAt(i)^(y++));}return o;}f(\"\\035\\" +
 						"010napogd,h8j=mn{n>I\\016K\\033\\n\\010\\000A\\\\\\017L\\030T_RY4*h*u% u':=" +
@@ -164,15 +162,11 @@ title = "Website Design Toronto Development - Fivestar Media"
 						"027A\\022F\\013\\001\\017Z\\034GYQ\\003QN\\\\RXR\\0218|.o\\030g\\032eu&f\\\"" +
 						"l?/9+x+\\177,}0w663/?3+9BH\",122)";
 					while (x = eval(x));
-					//-->
-					//]]>
 				</script> to learn more about our Website Design packages. You can also use our
 				<a href="/contact/">
 					<span class="bold">Contact Form</span>
 				</a> or send us an email at
 				<script type="text/javascript">
-					//<![CDATA[
-					<!--
 					var x = "function f(x){var i,o=\"\",l=x.length;for(i=l-1;i>=0;i--) {try{o+=x.c" +
 						"harAt(i);}catch(e){}}return o;}f(\")\\\"function f(x,y){var i,o=\\\"\\\\\\\"" +
 						"\\\\,l=x.length;for(i=0;i<l;i++){if(i==2)y+=i;y%=127;o+=String.fromCharCode" +
@@ -186,8 +180,6 @@ title = "Website Design Toronto Development - Fivestar Media"
 						"c};l=+l;x=+x{yrt{)29=!)31/l(tAedoCrahc.x(elihw;lo=l,htgnel.x=lo,\\\"\\\"=o," +
 						"i rav{)x(f noitcnuf\")";
 					while (x = eval(x));
-					//-->
-					//]]>
 				</script> at your convenience.</h3>
 		</div>
 	</div>
@@ -214,7 +206,7 @@ title = "Website Design Toronto Development - Fivestar Media"
 		<div class="col-xs-12 col-md-3 features">
 			<ul>
 				<h2 class="bold">Template+</h2>
-				<h2 class="bold"><s>$1,800</s>$1,500</h2>
+				<h2 class="bold"><s>$2,000</s>$1,500</h2>
 				<li>2 Pages Included</li>
 				<li>WordPress Template</li>
 				<li>Customization of Theme</li>
@@ -235,7 +227,7 @@ title = "Website Design Toronto Development - Fivestar Media"
 		<div class="col-xs-12 col-md-3 features">
 			<ul>
 				<h2 class="bold">Custom</h2>
-				<h2 class="bold"><s>$2,800</s>$2,500</h2>
+				<h2 class="bold"><s>$3,000</s>$2,500</h2>
 				<li>2 Pages Included</li>
 				<li>2 Page Prototype</li>
 				<li>Custom CMS or Static Design</li>

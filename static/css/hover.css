@@ -2,9 +2,9 @@
 .hvr-underline-from-left {
     display: inline-block;
     vertical-align: middle;
-    -webkit-transform: perspective(1px) translateZ(0);
-    transform: perspective(1px) translateZ(0);
-    box-shadow: 0 0 1px transparent;
+    -webkit-transform: perspective(0.5vw) translateZ(0);
+    transform: perspective(0.5vw) translateZ(0);
+    box-shadow: 0 0 0.5vw transparent;
     position: relative;
     overflow: hidden;
   }
@@ -31,9 +31,9 @@
   .hvr-underline-from-none {
     display: inline-block;
     vertical-align: middle;
-    -webkit-transform: perspective(1px) translateZ(0);
-    transform: perspective(1px) translateZ(0);
-    box-shadow: 0 0 1px transparent;
+    -webkit-transform: perspective(0.5vw) translateZ(0);
+    transform: perspective(0.5vw) translateZ(0);
+    box-shadow: 0 0 0.5vw transparent;
     position: relative;
     overflow: hidden;
   }
