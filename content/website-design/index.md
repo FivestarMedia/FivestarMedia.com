@@ -244,7 +244,7 @@ title = "Website Design Toronto Development - Fivestar Media"
 				<li>Mailing List</li>
 				<li>404 Redirect</li>
 				<li>XML Sitemap</li>
-				<li>*Additional Pages $150 each</li>
+				<li>*Additional Pages $120 each</li>
 			</ul>
 		</div>
 		<div class="col-xs-12 col-md-3 features">
@@ -272,7 +272,7 @@ title = "Website Design Toronto Development - Fivestar Media"
 				<li>Mailing List</li>
 				<li>404 Redirect</li>
 				<li>XML Sitemap</li>
-				<li>*Additional Pages $200 each</li>
+				<li>*Additional Pages $150 each</li>
 			</ul>
 		</div>
 	</div>
