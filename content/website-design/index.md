@@ -3,8 +3,7 @@ type = "webpage"
 layout = "single-nomap"
 title = "Website Design Toronto Development - Fivestar Media"
 +++
-<div class="bg website-design">
-</div>
+<div class="bg website-design"></div>
 <div class="body-container">
 	<div class="row">
 		<div class="col-xs-12 serviceHeading">
@@ -186,13 +185,12 @@ title = "Website Design Toronto Development - Fivestar Media"
 	<div class="row eqHeight Why featuresContainer">
 		<div class="col-xs-12 col-md-3 features">
 			<ul>
-				<h2 class="bold">Template</h2>
+				<h2 class="bold">Starter</h2>
 				<h2 class="bold"><s>$1,000</s>$700</h2>
-				<li>2 Pages Included</li>
+				<li>5 Pages Included</li>
 				<li>WordPress Template</li>
 				<li>Customization of Theme</li>
 				<li>Mobile Responsive</li>
-				<li>Google Analytics</li>
 				<li>Copywriting</li>
 				<li>Social Media Integration</li>
 				<li>Google Maps</li>
@@ -205,9 +203,9 @@ title = "Website Design Toronto Development - Fivestar Media"
 		</div>
 		<div class="col-xs-12 col-md-3 features">
 			<ul>
-				<h2 class="bold">Template+</h2>
+				<h2 class="bold">Premium</h2>
 				<h2 class="bold"><s>$2,000</s>$1,500</h2>
-				<li>2 Pages Included</li>
+				<li>5 Pages Included</li>
 				<li>WordPress Template</li>
 				<li>Customization of Theme</li>
 				<li>Mobile Responsive</li>
@@ -228,7 +226,7 @@ title = "Website Design Toronto Development - Fivestar Media"
 			<ul>
 				<h2 class="bold">Custom</h2>
 				<h2 class="bold"><s>$3,000</s>$2,500</h2>
-				<li>2 Pages Included</li>
+				<li>5 Pages Included</li>
 				<li>2 Page Prototype</li>
 				<li>Custom CMS or Static Design</li>
 				<li>Hand-coded from Scratch</li>
@@ -251,7 +249,7 @@ title = "Website Design Toronto Development - Fivestar Media"
 			<ul>
 				<h2 class="bold">Enterprise</h2>
 				<h2 class="bold">$5,000+</h2>
-				<li>2 Pages Included</li>
+				<li>5 Pages Included</li>
 				<li>Full Prototype</li>
 				<li>Custom CMS or Static Design</li>
 				<li>Hand-coded from Scratch</li>
