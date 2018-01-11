@@ -1,1 +1,2 @@
 baseURL = "https://fivestarmedia.com/"
+disableHugoGeneratorInject = true
