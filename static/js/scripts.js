@@ -22,14 +22,14 @@ function main() {
 					opacity: '1'
 				}, 400);
 				myFunction(thisObject);
-				if (onBlog == false) {
-				document.getElementById('intercom-container').style.display = 'block';
-			}
+			// 	if (onBlog == false) {
+			// 	document.getElementById('intercom-container').style.display = 'block';
+			// }
 			}, 800);
 		} else {
-			if (onBlog == false) {
-			document.getElementById('intercom-container').style.display = 'none';
-			}
+			// if (onBlog == false) {
+			// document.getElementById('intercom-container').style.display = 'none';
+			// }
 			$('body').css("background", "black");
 			var bgWidth = $(window).width();
 			$('body').css("max-width", bgWidth);
@@ -79,14 +79,14 @@ function main() {
 				$('.newNavWrapper img').attr("src", "/images/fivestarlogo.svg");
 				$('.bar1, .bar2, .bar3').css("background-color", "black");
 				myFunction(thisObject);
-				if (onBlog == false) {
-				document.getElementById('intercom-container').style.display = 'block';
-				}
+				// if (onBlog == false) {
+				// document.getElementById('intercom-container').style.display = 'block';
+				// }
 			}, 800);
 		} else {
-			if (onBlog == false) {
-			document.getElementById('intercom-container').style.display = 'none';
-			}
+			// if (onBlog == false) {
+			// document.getElementById('intercom-container').style.display = 'none';
+			// }
 			$('body').css("background", "black");
 			$('.bar1, .bar2, .bar3').css("background-color", "white");
 			myFunction(this);
