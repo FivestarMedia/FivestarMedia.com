@@ -185,8 +185,8 @@ title = "Website Design Toronto Development - Fivestar Media"
 	<div class="row eqHeight Why featuresContainer">
 		<div class="col-xs-12 col-md-3 features">
 			<ul>
-				<h2 class="bold">Starter</h2>
-				<h2 class="bold"><s>$1,000</s>$700</h2>
+				<h2 class="bold">Business Starter</h2>
+				<h2 class="bold"><s>$1,000</s>$699</h2>
 				<li>5 Pages Included</li>
 				<li>WordPress Template</li>
 				<li>Customization of Theme</li>
@@ -198,34 +198,38 @@ title = "Website Design Toronto Development - Fivestar Media"
 				<li>2 Rounds of Revisions</li>
 				<li>Contact Form</li>
 				<li>XML Sitemap</li>
-				<li>*Additional Pages <s>$100</s>$70 each</li>
+				<li>*Additional Pages <s>$100</s>$69 each</li>
 			</ul>
 		</div>
 		<div class="col-xs-12 col-md-3 features">
 			<ul>
-				<h2 class="bold">Premium</h2>
-				<h2 class="bold"><s>$2,000</s>$1,500</h2>
+				<h2 class="bold">Business Premium</h2>
+				<h2 class="bold"><s>$1,200</s>$999</h2>
 				<li>5 Pages Included</li>
 				<li>WordPress Template</li>
 				<li>Customization of Theme</li>
 				<li>Mobile Responsive</li>
 				<li>Google Analytics</li>
 				<li>Copywriting</li>
+				<li>Basic SEO</li>
 				<li>Social Media Integration</li>
 				<li>Google Maps</li>
+				<li>Coming Soon Page</li>
+				<li>Website Caching</li>
+				<li>CDN Setup</li>
 				<li>Photo Sourcing</li>
 				<li>3 Rounds of Revisions</li>
 				<li>Contact Form</li>
 				<li>Mailing List</li>
-				<li>404 Redirect</li>
+				<li>404 Redirect</li>		
 				<li>XML Sitemap</li>
-				<li>*Additional Pages $100 each</li>
+				<li>*Additional Pages $99 each</li>
 			</ul>
 		</div>
 		<div class="col-xs-12 col-md-3 features">
 			<ul>
 				<h2 class="bold">Custom</h2>
-				<h2 class="bold"><s>$3,000</s>$2,500</h2>
+				<h2 class="bold"><s>$3,000</s>$2,499</h2>
 				<li>5 Pages Included</li>
 				<li>2 Page Prototype</li>
 				<li>Custom CMS or Static Design</li>
@@ -233,8 +237,12 @@ title = "Website Design Toronto Development - Fivestar Media"
 				<li>Mobile Responsive</li>
 				<li>Google Analytics</li>
 				<li>Copywriting</li>
+				<li>Advanced SEO</li>
 				<li>Social Media Integration</li>
 				<li>Google Maps</li>
+				<li>Coming Soon Page</li>
+				<li>Website Caching</li>
+				<li>CDN Setup</li>
 				<li>5 Custom Icons</li>
 				<li>Photo Sourcing</li>
 				<li>3 Rounds of Revisions</li>
@@ -242,7 +250,7 @@ title = "Website Design Toronto Development - Fivestar Media"
 				<li>Mailing List</li>
 				<li>404 Redirect</li>
 				<li>XML Sitemap</li>
-				<li>*Additional Pages $120 each</li>
+				<li>*Additional Pages $119 each</li>
 			</ul>
 		</div>
 		<div class="col-xs-12 col-md-3 features">
@@ -263,6 +271,9 @@ title = "Website Design Toronto Development - Fivestar Media"
 				<li>Copywriting</li>
 				<li>Social Media Integration</li>
 				<li>Custom Google Maps</li>
+				<li>Coming Soon Page</li>
+				<li>Website Caching</li>
+				<li>CDN Setup</li>
 				<li>10 Custom Icons</li>
 				<li>Photo Sourcing</li>
 				<li>3 Rounds of Revisions</li>
@@ -270,7 +281,7 @@ title = "Website Design Toronto Development - Fivestar Media"
 				<li>Mailing List</li>
 				<li>404 Redirect</li>
 				<li>XML Sitemap</li>
-				<li>*Additional Pages $150 each</li>
+				<li>*Additional Pages $149 each</li>
 			</ul>
 		</div>
 	</div>
