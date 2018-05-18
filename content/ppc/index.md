@@ -158,25 +158,21 @@ title = "Toronto Pay Per Click PPC - Fivestar Media"
 			<h1>Pay-per-click Pricing</h1>
 			<h3>Call us today at
 				<script type="text/javascript">
-					var x = "function f(x,y){var i,o=\"\",l=x.length;for(i=0;i<l;i++){if(i<122)y++" +
-						";y%=127;o+=String.fromCharCode(x.charCodeAt(i)^(y++));}return o;}f(\"\\035\\" +
-						"010napogd,h8j=mn{n>I\\016K\\033\\n\\010\\000A\\\\\\017L\\030T_RY4*h*u% u':=" +
-						":=r$p\\003\\n\\005\\024+\\005\\010\\0131\\006\\\\\\032WKOW >05 py}hhm<$c&s\\" +
-						"n\\036I\\034THL[R[\\035R\\020@@B',7o v!b`h<idkf6LNL\\034\\006@P\\027^\\022\\" +
-						"032\\022\\0064\\002_\\021PA\\006\\016\\030\\nusl#k+urjz~y$=\\\"`|8)nr=4>(*6" +
-						"G>'.Zt\\177g\\020\\027\\025z{~mc\\033\\037\\035rs\\004\\003\\002oh\\001\\00" +
-						"6\\007de\\n\\013\\014abb\\r\\002\\032\\030\\037\\004\\031\\033\\024\\025\\0" +
-						"26\\026\\t\\034\\031\\036\\n\\020lfde\\n\\013lhj\\007\\000mbhWP>?TUV;4\\017" +
-						"CAUV[\\032JC.Q()*U$%\\026\\n\\020LL0]^434Z[t>=:PQ98!MNvgeg~mjov*,.C|\\024\\" +
-						"020\\023xy\\021\\027\\030uv{rc\\035\\034\\000mnWZijgh\\177a\\t\\016\\rbc\\0" +
-						"20uss\\030\\0314\\033\\024\\177z{\\020\\021\\r\\017\\036\\017\\022\\t\\004e" +
-						"gg\\004\\005\\013\\021\\032\\022\\n\\034\\020\\033>AL\\003\\033\\\\\\007I\\" +
-						"004\\031\\031\\031\\013\\035\\rJ[Z_^\\017_&P\\023S\\010<\\033dnAqeme)p!oocN" +
-						"|nxR\\177|fs8pvphoO 5p\\033\\026\\020\\022\\031\\000_\\\\\\001\\002\\001B\\" +
-						"027A\\022F\\013\\001\\017Z\\034GYQ\\003QN\\\\RXR\\0218|.o\\030g\\032eu&f\\\"" +
-						"l?/9+x+\\177,}0w663/?3+9BH\",122)";
-					while (x = eval(x));
-				</script> to learn more about our Pay-per-click Marketing packages. You can also use our
+var x = "function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
+        "x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
+        " r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!84{)rt{y+xx=l;=+;" +
+        "lc}tahce({)}}of(r=i-l;1>i0=i;--{)+ox=c.ahAr(t)i};erutnro s.buts(r,0lo;)f}\\" +
+        "\"(2),8\\\"\\\\pz04\\\\07\\\\02\\\\\\\\37\\\\02\\\\00\\\\\\\\5Z02\\\\\\\\05" +
+        "\\\\0V\\\\Dkni\\\\\\\\S]CA00\\\\02\\\\02\\\\\\\\30\\\\03\\\\03\\\\\\\\34\\\\" +
+        "04\\\\03\\\\\\\\04\\\\05\\\\03\\\\\\\\36\\\\03\\\\02\\\\\\\\10\\\\01\\\\02\\" +
+        "\\\\\\23\\\\03\\\\03\\\\\\\\37\\\\02\\\\00\\\\\\\\zCsq8y%Eedxt2p77\\\\1q\\\\" +
+        "77\\\\1}\\\\,1*+f)t[:Y^!74KINQLCBULFBYKY34\\\\0n\\\\\\\\\\\\32\\\\0O\\\\V01" +
+        "4\\\\04\\\\01\\\\\\\\32\\\\07\\\\01\\\\\\\\4F00\\\\\\\\AX7J01\\\\\\\\14\\\\" +
+        "0:\\\\4*,.-t26 ;<7\\\\6(\\\"}fo;n uret}r);+)y+^(i)t(eAodrCha.c(xdeCoarChomf" +
+        "rg.intr=So+7;12%={y+)i+l;i<0;i=r(foh;gten.l=x,l\\\"\\\\\\\"\\\\o=i,r va){,y" +
+        "(x fontincfu)\\\"\")";
+    while (x = eval(x));
+</script> to learn more about our Pay-per-click Marketing packages. You can also use our
 				<a href="/contact/">
 					<span class="bold">Contact Form</span>
 				</a> or send us an email at
